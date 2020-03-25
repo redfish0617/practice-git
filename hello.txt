@@ -1,2 +1,7 @@
 print ('hello world')
+<<<<<<< HEAD
 ???
+=======
+!!!
+
+>>>>>>> 11b207ecf7cb884cf6c9b7366e4d1d3d330316a5
